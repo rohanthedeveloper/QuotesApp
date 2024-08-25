@@ -1,0 +1,123 @@
+package com.example.quotesapp.lists
+
+val quoteTypes = listOf<String>(
+    "Motivation Quotes" ,
+    "Friendship Quotes" ,
+    "Love Quotes",
+    "Historical Quotes" ,
+    "Spiritual Quotes" ,
+)
+
+val motivationalQuotes = listOf(
+    "The only way to do great work is to love what you do. — Steve Jobs",
+    "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful. — Albert Schweitzer",
+    "Don't watch the clock; do what it does. Keep going. — Sam Levenson",
+    "The future belongs to those who believe in the beauty of their dreams. — Eleanor Roosevelt",
+    "Hardships often prepare ordinary people for an extraordinary destiny. — C.S. Lewis",
+    "Believe you can and you're halfway there. — Theodore Roosevelt",
+    "Your time is limited, so don't waste it living someone else's life. — Steve Jobs",
+    "You miss 100% of the shots you don't take. — Wayne Gretzky",
+    "The only limit to our realization of tomorrow is our doubts of today. — Franklin D. Roosevelt",
+    "Don't be pushed around by the fears in your mind. Be led by the dreams in your heart. — Roy T. Bennett",
+    "The best way to predict the future is to create it. — Peter Drucker",
+    "The harder you work for something, the greater you’ll feel when you achieve it. — Anonymous",
+    "Dream big and dare to fail. — Norman Vaughan",
+    "Success is not how high you have climbed, but how you make a positive difference to the world. — Roy T. Bennett",
+    "Start where you are. Use what you have. Do what you can. — Arthur Ashe",
+    "Success is not final, failure is not fatal: It is the courage to continue that counts. — Winston Churchill",
+    "Don't let yesterday take up too much of today. — Will Rogers",
+    "You don’t have to be great to start, but you have to start to be great. — Zig Ziglar",
+    "What lies behind us and what lies before us are tiny matters compared to what lies within us. — Ralph Waldo Emerson",
+    "The journey of a thousand miles begins with one step. — Lao Tzu"
+)
+
+val friendshipQuotes = listOf(
+    "A friend is someone who knows all about you and still loves you. — Elbert Hubbard",
+    "Friendship is born at that moment when one person says to another, ‘What! You too? I thought I was the only one.’ — C.S. Lewis",
+    "A real friend is one who walks in when the rest of the world walks out. — Walter Winchell",
+    "A friend is one that knows you as you are, understands where you have been, accepts what you have become, and still, gently allows you to grow. — William Shakespeare",
+    "Friendship is the only cement that will ever hold the world together. — Woodrow Wilson",
+    "A true friend never gets in your way unless you happen to be going down. — Arnold H. Glasgow",
+    "Friendship is the golden thread that ties the heart of all the world. — John Evelyn",
+    "Good friends are like stars. You don't always see them, but you know they're always there. — Unknown",
+    "A good friend is like a four-leaf clover; hard to find and lucky to have. — Irish Proverb",
+    "Friendship is not about whom you have known the longest; it is about who came and never left your side. — Unknown",
+    "True friendship comes when the silence between two people is comfortable. — David Tyson",
+    "Friends are the siblings God never gave us. — Mencius",
+    "There is nothing on this earth more to be prized than true friendship. — Thomas Aquinas",
+    "Friends show their love in times of trouble, not in happiness. — Euripides",
+    "Friendship multiplies the good of life and divides the evil. — Baltasar Gracian",
+    "A single rose can be my garden… a single friend, my world. — Leo Buscaglia",
+    "Friendship is a sheltering tree. — Samuel Taylor Coleridge",
+    "The greatest gift of life is friendship, and I have received it. — Hubert H. Humphrey",
+    "A friend is what the heart needs all the time. — Henry Van Dyke",
+    "A friend to all is a friend to none. — Aristotle"
+)
+val loveQuotes = listOf(
+    "Love all, trust a few, do wrong to none. — William Shakespeare",
+    "Being deeply loved by someone gives you strength, while loving someone deeply gives you courage. — Lao Tzu",
+    "Love is composed of a single soul inhabiting two bodies. — Aristotle",
+    "Love is that condition in which the happiness of another person is essential to your own. — Robert A. Heinlein",
+    "To love and be loved is to feel the sun from both sides. — David Viscott",
+    "Love recognizes no barriers. It jumps hurdles, leaps fences, penetrates walls to arrive at its destination full of hope. — Maya Angelou",
+    "The best thing to hold onto in life is each other. — Audrey Hepburn",
+    "Love is not about how many days, months, or years you have been together. Love is about how much you love each other every single day. — Unknown",
+    "Love is when the other person's happiness is more important than your own. — H. Jackson Brown, Jr.",
+    "We are shaped and fashioned by what we love. — Johann Wolfgang von Goethe",
+    "Love doesn't make the world go round. Love is what makes the ride worthwhile. — Franklin P. Jones",
+    "The greatest thing you'll ever learn is just to love and be loved in return. — Eden Ahbez",
+    "To love is nothing. To be loved is something. But to love and be loved, that's everything. — T. Tolis",
+    "Where there is love there is life. — Mahatma Gandhi",
+    "Love is a friendship set to music. — Joseph Campbell",
+    "The best and most beautiful things in this world cannot be seen or even heard, but must be felt with the heart. — Helen Keller",
+    "You know you're in love when you can't fall asleep because reality is finally better than your dreams. — Dr. Seuss",
+    "The giving of love is an education in itself. — Eleanor Roosevelt",
+    "Love cures people—both the ones who give it and the ones who receive it. — Karl A. Menninger",
+    "Love is the only force capable of transforming an enemy into a friend. — Martin Luther King Jr."
+)
+
+val historicalQuotes = listOf(
+    "The only thing we have to fear is fear itself. — Franklin D. Roosevelt",
+    "Those who cannot remember the past are condemned to repeat it. — George Santayana",
+    "I came, I saw, I conquered. — Julius Caesar",
+    "To be or not to be, that is the question. — William Shakespeare",
+    "Injustice anywhere is a threat to justice everywhere. — Martin Luther King Jr.",
+    "Give me liberty, or give me death! — Patrick Henry",
+    "The unexamined life is not worth living. — Socrates",
+    "That's one small step for man, one giant leap for mankind. — Neil Armstrong",
+    "The only thing necessary for the triumph of evil is for good men to do nothing. — Edmund Burke",
+    "The pen is mightier than the sword. — Edward Bulwer-Lytton",
+    "I think, therefore I am. — René Descartes",
+    "Knowledge is power. — Francis Bacon",
+    "The greatest glory in living lies not in never falling, but in rising every time we fall. — Nelson Mandela",
+    "It always seems impossible until it’s done. — Nelson Mandela",
+    "The best way to predict your future is to create it. — Abraham Lincoln",
+    "I have a dream. — Martin Luther King Jr.",
+    "The world is a book, and those who do not travel read only one page. — Saint Augustine",
+    "Speak softly and carry a big stick; you will go far. — Theodore Roosevelt",
+    "The only true wisdom is in knowing you know nothing. — Socrates",
+    "History will be kind to me for I intend to write it. — Winston Churchill"
+)
+
+val spiritualQuotes = listOf(
+    "The only thing we have to fear is fear itself. — Franklin D. Roosevelt",
+    "Those who cannot remember the past are condemned to repeat it. — George Santayana",
+    "In the end, we will remember not the words of our enemies, but the silence of our friends. — Martin Luther King Jr.",
+    "To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment. — Ralph Waldo Emerson",
+    "I think, therefore I am. — René Descartes",
+    "The unexamined life is not worth living. — Socrates",
+    "The only true wisdom is in knowing you know nothing. — Socrates",
+    "History will be kind to me for I intend to write it. — Winston Churchill",
+    "The purpose of life is not to be happy. It is to be useful, to be honorable, to be compassionate, to have it make some difference that you have lived and lived well. — Ralph Waldo Emerson",
+    "Life is what happens when you're busy making other plans. — John Lennon",
+    "The only limit to our realization of tomorrow is our doubts of today. — Franklin D. Roosevelt",
+    "The best way to predict the future is to create it. — Peter Drucker",
+    "The journey of a thousand miles begins with one step. — Lao Tzu",
+    "In three words I can sum up everything I've learned about life: it goes on. — Robert Frost",
+    "You must be the change you wish to see in the world. — Mahatma Gandhi",
+    "Not all those who wander are lost. — J.R.R. Tolkien",
+    "That which does not kill us makes us stronger. — Friedrich Nietzsche",
+    "It is not length of life, but depth of life. — Ralph Waldo Emerson",
+    "The only thing necessary for the triumph of evil is for good men to do nothing. — Edmund Burke",
+    "To live is the rarest thing in the world. Most people exist, that is all. — Oscar Wilde"
+)
